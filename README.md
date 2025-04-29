@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ray Wang</h1>
+<h1 align="center">👋 Hi, I'm Ray Wang</h1>
 I am a Computer Science and Finance Student at the University of Waterloo
 
 
